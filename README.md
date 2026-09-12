@@ -30,7 +30,7 @@ simulator, constrained optimizer, Strands agent tools, and device adapter
 layer (with a documented, honest breakdown of what's simulated vs. what a
 real integration would require) — lives in the main project repo:
 
-**[github.com/`<your-username>`/volt](https://github.com/)** *(update this
+**[github.com/`Abdullah49645`/volt](https://github.com/)** *(update this
 link once both repos are pushed)*
 
 See that repo's README for the architecture, the "how VOLT would see and
